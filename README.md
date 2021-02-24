@@ -13,15 +13,15 @@ Requires:
 - `python3`
 - `make`
 
- Clone
+📋 Clone
 
     git@github.com:thomasbunyan/jupyter-boilerplate.git
 
-Clean
+🛀 Clean
 
     rm -rf .git
 
-Push
+🚀 Push
 
     git init
     git remote add origin git@github.com:<user>/<new-repo>.git
