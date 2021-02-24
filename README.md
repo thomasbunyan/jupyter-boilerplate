@@ -9,14 +9,11 @@ Jupyter Template
 
 
 ## Installation and usage
-### Installation
 Requires:
 - `python 3.x`
 - `make`
 
-### Usage
-To run JupyterLab:
-`make start`
+    make start
 
 
 ## Project structure
