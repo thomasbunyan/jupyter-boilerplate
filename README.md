@@ -1,8 +1,8 @@
 Jupyter Boilerplate
 ===================
 
-<a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
-<img alt="license" src="https://img.shields.io/github/license/thomasbunyan/jupyter-boilerplate"></img>
+<a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-black"></a>
+<img alt="GitHub" src="https://img.shields.io/github/license/thomasbunyan/jupyter-boilerplate">
 
 > Jupyer notebook boilerplate for adaptation
 
@@ -42,5 +42,10 @@ Start Jupyter
     └── README.md
 
 
-## Author
+## Authors
 - [Thomas Bunyan](https://github.com/thomasbunyan)
+
+## License
+Copyright © 2021 [Thomas Bunyan](https://github.com/thomasbunyan).
+
+Usage is provided under the MIT License. See [LICENSE](https://github.com/thomasbunyan/jupyter-boilerplate/blob/master/LICENSE) for the full details.
