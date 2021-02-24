@@ -15,7 +15,7 @@ Requires:
 
 📋 Clone
 
-    git@github.com:thomasbunyan/jupyter-boilerplate.git
+    git clone git@github.com:thomasbunyan/jupyter-boilerplate.git
 
 🛀 Clean
 
