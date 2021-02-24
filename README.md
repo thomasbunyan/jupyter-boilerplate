@@ -8,10 +8,12 @@ Jupyter Template
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 
 
-## Installation and usage
+## Usage
 Requires:
-- `python 3.x`
+- `python3`
 - `make`
+
+To Run
 
     make start
 
