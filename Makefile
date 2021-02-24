@@ -1,4 +1,4 @@
-all: venv
+default: start
 
 venv/Scripts/activate: requirements.txt
 	py -m venv venv
@@ -13,4 +13,4 @@ clean:
 	rm -rf venv
 	find . -type f -name '*.pyc' -delete
 
-.PHONY: all run start clean
+.PHONY: default start clean

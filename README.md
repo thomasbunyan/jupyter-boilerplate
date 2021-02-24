@@ -13,9 +13,9 @@ Requires:
 - `python3`
 - `make`
 
-To Run
+To start
 
-    make start
+    make
 
 
 ## Project structure
